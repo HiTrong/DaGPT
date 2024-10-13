@@ -1,0 +1,51 @@
+{
+    "hoaitrong": {
+        "API-KEY1": {
+            "API": "PUT-YOUR-API-KEY-HERE",
+            "gemini-1.5-flash": {
+                "available": 1,
+                "not_available_at": "None" 
+            },
+            "gemini-1.5-flash-8b": {
+                "available": 1,
+                "not_available_at": "None" 
+            },
+            "gemini-1.0-pro": {
+                "available": 1,
+                "not_available_at": "None" 
+            }
+        },
+        "API-KEY2": {
+            "API": "PUT-YOUR-API-KEY-HERE",
+            "gemini-1.5-flash": {
+                "available": 1,
+                "not_available_at": "None" 
+            },
+            "gemini-1.5-flash-8b": {
+                "available": 1,
+                "not_available_at": "None" 
+            },
+            "gemini-1.0-pro": {
+                "available": 1,
+                "not_available_at": "None" 
+            }
+        }
+    },
+    "phuonganh": {
+        "API-KEY1": {
+            "API": "PUT-YOUR-API-KEY-HERE",
+            "gemini-1.5-flash": {
+                "available": 1,
+                "not_available_at": "None" 
+            },
+            "gemini-1.5-flash-8b": {
+                "available": 1,
+                "not_available_at": "None" 
+            },
+            "gemini-1.0-pro": {
+                "available": 1,
+                "not_available_at": "None" 
+            }
+        }
+    }
+}

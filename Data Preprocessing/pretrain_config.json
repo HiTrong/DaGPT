@@ -1,0 +1,51 @@
+{
+    "dieutri": {
+        "path": "./Data/Web Crawling/dieutri/dieutri_data_crawling.csv",
+        "format": "csv",
+        "text_col": "text",
+        "process_list": [1,3,4,5,2],
+        "organizations": ["None"]
+    },
+    "eDoctor": {
+        "path": "./Data/Web Crawling/eDoctor/medical_article_scraping.csv",
+        "format": "csv",
+        "text_col": "content",
+        "process_list": [1,3,4,5,2],
+        "organizations": ["eDoctor", "edoctor", "EDOCTOR"]
+    },
+    "Ivie": {
+        "path": "./Data/Web Crawling/Ivie - Bác sĩ ơi/ivie_article_crawling.csv",
+        "format": "csv",
+        "text_col": "text",
+        "process_list": [1,3,4,5,2],
+        "organizations": ["của IVIE - Bác sĩ ơi","IVIE - Bác sĩ ơi","IVIE", "Ivie"]
+    },
+    "Medlatec": {
+        "path": "./Data/Web Crawling/Medlatec/medlatec_article_crawling.csv",
+        "format": "csv",
+        "text_col": "content",
+        "process_list": [1,3,4,5,2],
+        "organizations": ["Medlatec","MEDLATEC"]
+    },
+    "Tâm Anh": {
+        "path": "./Data/Web Crawling/Tâm Anh/tamanh_data_crawling.csv",
+        "format": "csv",
+        "text_col": "text",
+        "process_list": [1,3,4,5,2],
+        "organizations": ["Tâm Anh"]
+    },
+    "Data Augmentation": {
+        "path": "./Data/Data Augmentation & synthetic/data_augmentation.csv",
+        "format": "csv",
+        "text_col": "text",
+        "process_list": [1,3,4,5,2],
+        "organizations": ["None"]
+    },
+    "Data Augmentation2": {
+        "path": "./Data/Data Augmentation & synthetic/more_data.csv",
+        "format": "csv",
+        "text_col": "Văn bản",
+        "process_list": [1,3,4,5,2],
+        "organizations": ["None"]
+    }
+}

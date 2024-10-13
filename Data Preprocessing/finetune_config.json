@@ -1,0 +1,24 @@
+{
+    "eDoctor": {
+        "path": "./Data/Web Crawling/eDoctor/medical_qa_scraping.csv",
+        "format": "csv",
+        "question_col": "question",
+        "answer_col": "answer",
+        "process_list": [6,1,3,4,5,2],
+        "organizations": ["eDoctor", "edoctor", "EDOCTOR"]
+    },
+    "Ivie": {
+        "path": "./Data/Web Crawling/Ivie - Bác sĩ ơi/ivie_datacrawling.csv",
+        "format": "csv",
+        "qa_col": "text",
+        "process_list": [7,1,3,4,5,2],
+        "organizations": ["của IVIE - Bác sĩ ơi","IVIE - Bác sĩ ơi","IVIE", "Ivie"]
+    },
+    "Data Synthetic": {
+        "path": "./Data/Data Augmentation & synthetic/data_synthetic.csv",
+        "format": "csv",
+        "qa_col": "QA",
+        "process_list": [7,1,3,4,5,2],
+        "organizations": ["None"]
+    }
+}
